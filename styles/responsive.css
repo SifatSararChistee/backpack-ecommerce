@@ -9,4 +9,17 @@
     .nav-options{
         display: none;
     }
+
+    .banner{
+        flex-direction: column;
+    }
+
+    .banner-left{
+        margin-top: 40px;
+        width: 100%;
+    }
+    .banner-right{
+        margin-top: 30px;
+        width: 100%;
+    }
 }
