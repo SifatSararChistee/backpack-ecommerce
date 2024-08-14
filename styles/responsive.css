@@ -1,0 +1,12 @@
+@media screen and (max-width:576px) {
+    .hamburger-menu{
+        display: block;
+    }
+    .nav-img img{
+        width: 70%;
+        height: auto;
+    }
+    .nav-options{
+        display: none;
+    }
+}
