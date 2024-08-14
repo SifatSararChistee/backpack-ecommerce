@@ -22,4 +22,9 @@
         margin-top: 30px;
         width: 100%;
     }
+
+    .backpacks-container{
+        flex-direction: column;
+    }
+
 }
