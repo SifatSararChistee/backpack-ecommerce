@@ -27,4 +27,21 @@
         flex-direction: column;
     }
 
+    .footer{
+        flex-direction: column-reverse;
+    }
+
+    .footer-left{
+        width: 100%;
+    }
+
+    .footer-right{
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    
+    .footer-content img{
+        height: 100%;
+    }
+
 }
